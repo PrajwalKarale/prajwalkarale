@@ -1,4 +1,4 @@
-## 👋 Hello World, I am Prajwal, Nice to see you!
+## 👋 Hello World, I am __Prajwal__, Nice to see you!
 <p align="center">
     <img src="images/prajwalkarale.gif" width="100%"/>
 </p>
