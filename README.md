@@ -13,7 +13,15 @@
     <li> 🌐 Connect with me on : <a href="https://www.linkedin.com/in/prajwalkarale/">LinkedIn</a></li><br>
 </ul>
 <hr><br>
+
 ![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrajwalKarale&show_icons=true&theme=radical)
+
+<hr><br>
+
+## Technologies that I have worked
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,express,nextjs,nestjs,react,c,cpp,docker,kubernetes,aws,nodejs,git,vscode,html,css,vim,nginx,python,flask,django,tensorflow,pytorch,bootstrap,styledcomponents,tailwind,redis,mongodb,mysql,linux,cloudflare,bash&theme=dark)](https://github.com/PrajwalKarale)
 
 <!--
 **PrajwalKarale/prajwalkarale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
