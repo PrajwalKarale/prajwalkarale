@@ -15,7 +15,7 @@
 <hr><br>
 
 
-![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrajwalKarale&show_icons=true&theme=radical
+![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrajwalKarale&show_icons=true&theme=radical)
 
 
 <hr><br>
