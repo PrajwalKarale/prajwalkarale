@@ -20,7 +20,7 @@
 
 <hr><br>
 
-## Technologies that I have worked
+## 💻 Technologies that I have worked
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,express,nextjs,nestjs,react,c,cpp,docker,kubernetes,aws,nodejs,git,vscode,html,css,vim,nginx,python,flask,django,tensorflow,pytorch,bootstrap,styledcomponents,tailwind,redis,mongodb,mysql,linux,cloudflare,bash&theme=dark)](https://github.com/PrajwalKarale)
