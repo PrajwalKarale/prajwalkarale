@@ -24,6 +24,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,express,nextjs,nestjs,react,c,cpp,docker,kubernetes,aws,nodejs,git,vscode,html,css,vim,nginx,python,flask,django,tensorflow,pytorch,bootstrap,styledcomponents,tailwind,redis,mongodb,mysql,linux,cloudflare,bash&theme=dark)](https://github.com/PrajwalKarale)
 
+<hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **PrajwalKarale/prajwalkarale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
