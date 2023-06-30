@@ -1,5 +1,5 @@
-## 👋 Hello World, I am Prajwal, Nice to see you!
 <p align="center">
+    <img src="images/welcome.gif" width="100%">
     <img src="images/prajwalkarale.gif" width="100%"/>
 </p>
 <hr><br>
