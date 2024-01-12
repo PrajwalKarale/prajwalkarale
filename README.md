@@ -13,7 +13,11 @@
 </ul>
 <hr><br>
 
+# GITHUB STATISTICS
+
 ![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrajwalKarale&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PrajwalKarale&theme=highcontrast)](https://git.io/streak-stats)
 
 <hr><br>
 
