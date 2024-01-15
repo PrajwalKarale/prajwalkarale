@@ -2,6 +2,9 @@
     <img src="images/prajwalkarale.gif" width="100%"/>
 </p>
 <hr><br>
+
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<hr><br>
 <ul>
     <li>🧩️ I love to solve real world problems with out of the box thinking. </li><br>
     <li> 🏢 Currently studying at Syracuse University.</li><br>
@@ -28,7 +31,9 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+### 🖥️ My Statistics:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalKarale&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
