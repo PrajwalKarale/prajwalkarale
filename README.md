@@ -3,7 +3,7 @@
 </p>
 <hr><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&lines=I'm+doing+masters+in+CS+at+SU;I'm+looking+for+Full+Time+SDE'24+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+doing+masters+in+CS+at+SU;I'm+looking+for+Full+Time+SDE'24+opportunities)](https://git.io/typing-svg)
 
 <hr><br>
 <ul>
