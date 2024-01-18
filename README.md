@@ -3,7 +3,8 @@
 </p>
 <hr><br>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&lines=I'm+doing+masters+in+CS+at+SU;I'm+looking+for+Full+Time+SDE'24+opportunities)](https://git.io/typing-svg)
+
 <hr><br>
 <ul>
     <li>🧩️ I love to solve real world problems with out of the box thinking. </li><br>
